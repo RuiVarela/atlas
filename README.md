@@ -1,5 +1,5 @@
 # atlas
-high end tetris
+high end tetris in xna
 
 ## Credits
 This games was developed by:
