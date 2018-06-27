@@ -13,7 +13,7 @@ high end tetris in xna
 [![Making of video...](http://img.youtube.com/vi/SjnWMAX4_5w/0.jpg)](https://www.youtube.com/watch?v=SjnWMAX4_5w)
 
 ## Credits
-This games was developed by:
+This game was developed by:
 * Bruno Loureiro
 * Carlos Saraiva
 * João Fernandes
